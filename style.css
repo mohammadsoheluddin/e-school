@@ -1,0 +1,186 @@
+.bg1{
+    position: static;
+    width: 1440px;
+    height: 550px;
+    left: 0px;
+    top: 0px;
+    background: #F0FFF0;
+}
+.logo-img{
+    position: ‍static;
+    width: 198.07px;
+    height: 59px;
+    left: 212px;
+    top: 30px;
+}
+
+h2{
+    position: static;
+    width: 405px;
+    height: 140px;
+    left: 205px;
+    top: 212px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+
+.button-1{
+    display: flex;
+    align-items: center;
+    padding: 12px 28px;
+    width: 105px;
+    height: 35px;
+
+    background: #21B573;
+    border-radius: 30px;
+}
+.button-2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 36px;
+    width: 156px;
+    height: 43px;
+    left: 205px;
+    top: 470px;
+
+    background: #21B573;
+    border-radius: 33px;
+}
+
+
+.book{
+    position: static;
+    width: 270px;
+    height: 270px;
+    left: 135px;
+    top: 800px;
+
+    background: #F8FFFB;
+    border-radius: 15px;
+}
+.Student{
+    position: static;
+    width: 270px;
+    height: 270px;
+    left: 435px;
+    top: 650px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+.Test{
+    position: static;
+    width: 270px;
+    height: 270px;
+    left: 734px;
+    top: 650px;
+
+    background: #F8FFFB;
+    border-radius: 15px;
+}
+.Students{
+    position: static;
+    width: 270px;
+    height: 270px;
+    left: 1035px;
+    top: 650px;
+    background: #F8FFFB;
+    border-radius: 15px;
+}
+
+
+
+.book-1{
+    width: 66px;
+    height: 85px;
+    left: 231px;
+    top: 672px;
+}
+.Student-1{
+    width: 80px;
+    height: 83px;
+    left: 535px;
+    top: 670px;
+
+}
+.Test-1{
+    width: 75px;
+    height: 80px;
+    left: 831px;
+    top: 670px;
+}
+.Students-1{
+    width: 68px;
+    height: 76px;
+    left: 1141px;
+    top: 677px;
+}
+
+.Testimonial{
+    position: absolute;
+
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.modern-1{
+    position: absolute;
+    width: 331px;
+    height: 234px;
+    left: 154px;
+    top: 1126px;
+    border-radius: 11px;
+}
+
+.calendar{
+    width: 20px; 
+    height: 20px;
+    left: 45.83%;
+    right: 29.17%;
+    top: 62.5%;
+    bottom: 29.17%
+}
+
+.people{
+    width: 20px; 
+    height: 20px;
+}
+
+.man{
+    width: 120px;
+    height: 120px;
+    left: 353px;
+    top: 1787px;
+}
+
+.bg2{
+    width: 1440px;
+    height: 320px;
+    left: 0px;
+    top: 2013px;
+    background: #282531;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* .dog{
+    display: grid;
+    place-items: center;
+} */
